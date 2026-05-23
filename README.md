@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning. i am an engineering student.
 - # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=HeyGEMO&theme=dark&hide_border=true)<br/>
-https://github.com/HeyGEMO?tab=achievements
----
+-------------------------------------------------------
 - 👯 I’m looking to collaborate on ... i dont
 - 🤔 I’m looking for help with ... i dont
 - 💬 Ask me about ... dont ask me
