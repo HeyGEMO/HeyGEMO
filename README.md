@@ -11,3 +11,4 @@
 - 💬 Ask me about ... dont ask me
 - 📫 How to reach me: cruzerboy8@gmail.com , hari.nc7@gmail.com
 - ⚡ Fun fact: I am noob.
+![](https://komarev.com/ghpvc/?username=HeyGEMO&color=blue)
